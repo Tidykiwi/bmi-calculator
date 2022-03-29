@@ -1,0 +1,14 @@
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.exe.config
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.exe
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.pdb
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.exe
+C:\Users\rossk\source\repos\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.pdb
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.exe.config
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.exe
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\bin\Debug\Assign1_ConsoleApp.pdb
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.exe
+C:\Users\rossk\OneDrive\Documents\Open Polytech\BIT502 - Fundamentals of Programming\Assign 1\Assign1_ConsoleApp\Assign1_ConsoleApp\obj\Debug\Assign1_ConsoleApp.pdb
